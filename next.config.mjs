@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  // output: 'export',
     // output: "standalone", // ✅ required for SSR deployment menay rendder k liye use kiya
 
   eslint: {
